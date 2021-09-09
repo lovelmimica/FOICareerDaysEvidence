@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# FOI CareerDays Evidence
+
+Developed in context of React Development Academy, and represents frontend of web app for Career Days participants, a headhunting event organized by University. 
 
 ## Available Scripts
 
