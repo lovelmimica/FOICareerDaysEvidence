@@ -1,4 +1,4 @@
-# FOI CareerDays Evidence
+# FOI Career Days Evidence
 
 Developed in context of React Development Academy, and represents frontend of web app for Career Days participants, a headhunting event organized by University. 
 
